@@ -15,7 +15,7 @@ Bem-vindo ao FastAPI GraphQL Starter, um projeto simples que demonstra como cria
 
     ```bash
     python -m venv venv
-    source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
+    source venv/bin/activate  
     ```
 
 3. **Instale as dependências:**
