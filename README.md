@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Bem-vindo ao FastAPI GraphQL Starter, um projeto simples que demonstra como criar uma API GraphQL eficiente usando FastAPI. Este projeto foi desenvolvido como uma base para acelerar o desenvolvimento de APIs modernas, combinando a rapidez do FastAPI com a flexibilidade do GraphQL.
+Esse é um projeto simples que demonstra como criar (com abordagem dinãmica de diretório) uma API GraphQL eficiente usando FastAPI. Este projeto foi desenvolvido como uma base para acelerar o desenvolvimento de APIs modernas.
 
 ## Recursos Destacados
 
